@@ -27,3 +27,21 @@ git push origin master
 sudo su
 git init
 sudo su
+clear
+git remote -v
+sudo su
+ls
+clear
+sudo su
+ls
+sudo su
+l
+sudo su
+ls
+sudo su
+ls
+sudo su
+ls
+clear
+ls
+sudo su
