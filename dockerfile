@@ -5,4 +5,4 @@ zip\
 unzip
 top
 date
-i
+free -h
